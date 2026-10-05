@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "scaling-transformer",
+  "versions": [
+    {
+      "commit": "478cdd2a2a78038c99adbf161c2de2b9fc5993ef",
+      "parsed_at": "2026-10-05T09:51:42.925792+00:00",
+      "tag": "main",
+      "filetree": "filetree/478cdd2a2a78038c99adbf161c2de2b9fc5993ef.nq.gz",
+      "blobs": [
+        "blob/47b71350a515b43776dec843d3cbdae3e0031b03.nq.gz",
+        "blob/f4c53a759cea6ecf1cc1bb2672748ea758b159c3.nq.gz",
+        "blob/141a67045945005d88540e9e395d33d41a364079.nq.gz",
+        "blob/7b21878e24a3ec9bfc56fd04769780472d2454e5.nq.gz",
+        "blob/90e401fe50cfb8aa150e1ba802ed87282aef9589.nq.gz",
+        "blob/6bd9e3eec444ca6116f74b1fcd6c471099abcb36.nq.gz",
+        "blob/8519a2e3a9e4ba94fe7169455272206eea8350ed.nq.gz",
+        "blob/69fc416a1696d44ed359c76647e798d06fcc8817.nq.gz",
+        "blob/18143f37b9be63ee2dcaac39c1d2cbafac1c8ea9.nq.gz",
+        "blob/65efb979ffb3ea06475d4688fa656ed61c153a9d.nq.gz",
+        "blob/ad3dc66984b69d6bb21793776e38749416dc782c.nq.gz",
+        "blob/c7f28d09b021611178fe4d038ef24b9d77c49ef3.nq.gz",
+        "blob/d759018e5e515a5ce5cbae4fd5ac127f0830cc1e.nq.gz",
+        "blob/e1ce3f4248d93065c3037b703bbfac2c71088bad.nq.gz",
+        "blob/25905e72e4298dac880d922987cc23eba3441b21.nq.gz",
+        "blob/6f9567541892cb433baad0121b443c0571f3795e.nq.gz",
+        "blob/7940ac10385c8c8a7b8f4943bcc1e956479b5460.nq.gz",
+        "blob/ce7dd9f23549d2e958b401d19ec058cd3e82bcca.nq.gz",
+        "blob/b61cd516f6bb0ad2ddc2146295d6f7498f65952d.nq.gz",
+        "blob/6855e4dcd568f4c22867b58110cd2092044a6ff6.nq.gz",
+        "blob/b657ccfa7dafa7027e67eafedfc32d975cab9f88.nq.gz",
+        "blob/2f980f363b7732995f7386a6f088d4f8b142718c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
