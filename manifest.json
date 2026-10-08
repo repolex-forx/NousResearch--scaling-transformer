@@ -34,6 +34,179 @@
       ],
       "ast": [
         "aggregate/ast/478cdd2a2a78038c99adbf161c2de2b9fc5993ef/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/478cdd2a2a78038c99adbf161c2de2b9fc5993ef.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "1.21.0",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubCommit": "b235f9e701e14ed6f6f6dcba885f7986a833743f",
+          "githubTag": "v1.21.0",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "matplotlib",
+          "ecosystem": "PYPI",
+          "version": "3.5.0",
+          "githubOrg": "matplotlib",
+          "githubRepo": "matplotlib",
+          "githubCommit": "9765379ce6e7343070e815afc0988874041b98e2",
+          "githubTag": "v3.5.0",
+          "githubUrl": "https://github.com/matplotlib/matplotlib",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pandas",
+          "ecosystem": "PYPI",
+          "version": "1.3.0",
+          "githubOrg": "pandas-dev",
+          "githubRepo": "pandas",
+          "githubCommit": "f00ed8f47020034e752baf0250483053340971b0",
+          "githubTag": "v1.3.0",
+          "githubUrl": "https://github.com/pandas-dev/pandas",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sympy",
+          "ecosystem": "PYPI",
+          "version": "1.9.0",
+          "githubOrg": "sympy",
+          "githubRepo": "sympy",
+          "githubUrl": "https://github.com/sympy/sympy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "plotly",
+          "ecosystem": "PYPI",
+          "version": "5.0.0",
+          "githubOrg": "plotly",
+          "githubRepo": "plotly.py",
+          "githubCommit": "06c6eb2b1acaba21c10ffccf5efd827bb3d86b41",
+          "githubTag": "v5.0.0",
+          "githubUrl": "https://github.com/plotly/plotly.py",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "gradio",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "gradio-app",
+          "githubRepo": "gradio",
+          "githubUrl": "https://github.com/gradio-app/gradio",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "scipy",
+          "ecosystem": "PYPI",
+          "version": "1.7.0",
+          "githubOrg": "scipy",
+          "githubRepo": "scipy",
+          "githubCommit": "44e31b1eb202ef91caad059952ba268d2610a60b",
+          "githubTag": "v1.7.0",
+          "githubUrl": "https://github.com/scipy/scipy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "7.0.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3554b833c24f541af5c7272e47cfa52b89d8138d",
+          "githubTag": "7.0.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "3.0.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "560b95575efe9e55874bc8bbc99de1dd2db80ba9",
+          "githubTag": "v3.0.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "black",
+          "ecosystem": "PYPI",
+          "version": "22.0.0",
+          "githubOrg": "psf",
+          "githubRepo": "black",
+          "githubUrl": "https://github.com/psf/black",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "isort",
+          "ecosystem": "PYPI",
+          "version": "5.10.0",
+          "githubOrg": "PyCQA",
+          "githubRepo": "isort",
+          "githubCommit": "c154ecff496bf9309eaf5d887f4aa4a0abba28a2",
+          "githubTag": "5.10.0",
+          "githubUrl": "https://github.com/PyCQA/isort",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "flake8",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "pycqa",
+          "githubRepo": "flake8",
+          "githubCommit": "d31c5356bbb0a884555662185697ddc6bb46a44c",
+          "githubTag": "4.0.0",
+          "githubUrl": "https://github.com/pycqa/flake8",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "0.950",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubCommit": "cceba7b20c7dde6a3a7b193cb7212b9b2f76c9cd",
+          "githubTag": "v0.950",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubCommit": "a317d0037c3513e902c4259331e2c6249540fcda",
+          "githubTag": "v4.0.0",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "ecosystem": "PYPI",
+          "version": "1.0.0",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "c9b1bde560d8ee31400e4e4f92f2e8d7a42265ce",
+          "githubTag": "1.0.0",
+          "githubUrl": "https://github.com/readthedocs/sphinx_rtd_theme",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-autodoc-typehints",
+          "ecosystem": "PYPI",
+          "version": "1.12.0",
+          "githubOrg": "tox-dev",
+          "githubRepo": "sphinx-autodoc-typehints",
+          "githubCommit": "1b85ff5306f02985ab00c73b41504bb5b17943eb",
+          "githubTag": "1.12.0",
+          "githubUrl": "https://github.com/tox-dev/sphinx-autodoc-typehints",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/scaling-transformer/commit/478cdd2a2a78038c99adbf161c2de2b9fc5993ef",
       "git:hexsha": "478cdd2a2a78038c99adbf161c2de2b9fc5993ef",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
