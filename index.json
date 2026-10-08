@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "scaling-transformer",
+  "versions": [
+    {
+      "commit": "478cdd2a2a78038c99adbf161c2de2b9fc5993ef",
+      "tag": "main",
+      "parsed_at": "2026-10-08T11:09:46.005906+00:00"
+    }
+  ]
+}
