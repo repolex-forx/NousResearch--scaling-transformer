@@ -207,7 +207,9 @@
           "githubUrl": "https://github.com/tox-dev/sphinx-autodoc-typehints",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/478cdd2a2a78038c99adbf161c2de2b9fc5993ef/chunk-001.nq.gz",
+      "dep": "dep/478cdd2a2a78038c99adbf161c2de2b9fc5993ef.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
